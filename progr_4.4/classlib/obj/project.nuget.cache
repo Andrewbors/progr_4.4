@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "cG4lgIcajPHQYpVgH6iAcx5b0gwHGynPujk3EWrEo5L4bBNnjhE+Me7godfeyjPpqEOx2nMo/CJ8e2WUpvdTzw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Arsen\\source\\repos\\kpz-4-andr\\lib\\ClassLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Arsen\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Arsen\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

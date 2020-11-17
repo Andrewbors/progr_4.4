@@ -1,0 +1,9 @@
+C:\Users\Arsen\source\repos\kpz-4-andr\lib\bin\Debug\netstandard2.0\ClassLibrary.deps.json
+C:\Users\Arsen\source\repos\kpz-4-andr\lib\bin\Debug\netstandard2.0\ClassLibrary.dll
+C:\Users\Arsen\source\repos\kpz-4-andr\lib\bin\Debug\netstandard2.0\ClassLibrary.pdb
+C:\Users\Arsen\source\repos\kpz-4-andr\lib\obj\Debug\netstandard2.0\ClassLibrary.csprojAssemblyReference.cache
+C:\Users\Arsen\source\repos\kpz-4-andr\lib\obj\Debug\netstandard2.0\ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Arsen\source\repos\kpz-4-andr\lib\obj\Debug\netstandard2.0\ClassLibrary.AssemblyInfo.cs
+C:\Users\Arsen\source\repos\kpz-4-andr\lib\obj\Debug\netstandard2.0\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Arsen\source\repos\kpz-4-andr\lib\obj\Debug\netstandard2.0\ClassLibrary.dll
+C:\Users\Arsen\source\repos\kpz-4-andr\lib\obj\Debug\netstandard2.0\ClassLibrary.pdb
